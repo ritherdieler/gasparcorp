@@ -28,6 +28,15 @@ dependencies {
     
     compile group: 'javax.persistence', name: 'javax.persistence-api', version: '2.2'
     
+    compile group: 'org.mariadb.jdbc', name: 'mariadb-java-client', version: '1.1.7'
+    
+   compile group: 'org.glassfish', name: 'javax.faces', version: '2.2.9'
+   compile group: 'org.eclipse.persistence', name: 'eclipselink', version: '2.5.1'
+   
+   
 
+ 
+   
+   
 }
 
